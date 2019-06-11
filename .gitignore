@@ -11,3 +11,9 @@
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-server-bundle ###
+.idea/blog.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/terminal.xml
+.idea/vcs.xml
+.idea/workspace.xml
